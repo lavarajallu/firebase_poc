@@ -1,0 +1,21 @@
+{
+	"users_list":[{
+            "id":"1",
+            "email":"lavaraju@gmail.com",
+            "fname":"Allu",
+            "lname":"Lavaraju"
+            },
+           {
+            "id":"2",
+            "email":"manikyam@gmail.com",
+            "fname":"Allu",
+            "lname":"Manikyam"
+            },
+            {
+            "id":"3",
+            "email":"goutham@gmail.com",
+            "fname":"Moka",
+            "lname":"Goutham"
+            }
+        ]
+}
